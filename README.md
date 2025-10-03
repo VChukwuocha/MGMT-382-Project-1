@@ -21,8 +21,6 @@ My attempt at making a company services page.
 <p>
   Whether it’s a corporate lunch or a wedding, our <b>professional catering team</b> 
   ensures every event is unforgettable.  
-  Explore <a href="https://www.triplexxxfamilyrestaurant.com/" target="_blank">Triple XXX Family Restaurant</a> 
-  for inspiration on local flavor and style.
 </p>
 
 <ul>
