@@ -1,9 +1,5 @@
-My attempt at making a company services page.
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Khaana Services</title>
-</head>
 <body style="font-family: Arial; background-color:#fffaf0;">
 
 <h1 style="color:darkred; font-family: Georgia;">Welcome to <u>Khaana Food Services</u></h1>
