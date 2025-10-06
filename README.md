@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body style="font-family: Arial; background-color:#fffaf0;">
 
@@ -13,7 +12,7 @@
 
 <hr>
 
-<h2 style="color:green;">Catering Services</h2>
+<h2>Catering Services</h2>
 <p>
   Whether it’s a corporate lunch or a wedding, our <b>professional catering team</b> 
   ensures every event is unforgettable.  
@@ -25,7 +24,7 @@
   <li>Customized menus for dietary needs</li>
 </ul>
 
-<h2 style="color:#b22222;">Delivery & Takeout</h2>
+<h2>Delivery & Takeout</h2>
 <p><i>Delicious food, right at your door.</i>  
 Our delivery system is fast, reliable, and eco-friendly.</p>
 
