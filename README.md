@@ -1,7 +1,7 @@
 <html>
 <body style="font-family: Arial; background-color:#fffaf0;">
 
-<h1 style="color:darkred; font-family: Georgia;">Welcome to <u>Khaana Food Services</u></h1>
+<h1>Welcome to Khaana Food Services </h1>
 
 <p>
   At <b>Khaana</b>, we deliver more than just meals — we provide 
